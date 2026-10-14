@@ -88,52 +88,52 @@ const rageLevels = [
   {
     title: "CHILL MODE",
     caption: "Jasim is at peace. For now. 😎",
-    image: "assets/jasim-01.png"
+    image: "Assets/jasim-01.png"
   },
   {
     title: "SUSPICIOUS MODE",
     caption: "Jasim has started asking questions. 🤨",
-    image: "assets/jasim-02.png"
+    image: "Assets/jasim-02.png"
   },
   {
     title: "MILDLY TRIGGERED",
     caption: "One more question and things get awkward. 😒",
-    image: "assets/jasim-03.png"
+    image: "Assets/jasim-03.png"
   },
   {
     title: "ANNOYED MODE",
     caption: "Jasim is reconsidering this friendship. 😤",
-    image: "assets/jasim-04.png"
+    image: "Assets/jasim-04.png"
   },
   {
     title: "ANGER LOADING",
     caption: "The eyebrow has officially twitched. 😡",
-    image: "assets/jasim-05.png"
+    image: "Assets/jasim-05.png"
   },
   {
     title: "RAGE MODE",
     caption: "Bro is typing a paragraph in the group chat. 🔥",
-    image: "assets/jasim-06.png"
+    image: "Assets/jasim-06.png"
   },
   {
     title: "UNSTABLE MODE",
     caption: "Jasim has entered the voice chat. 💀",
-    image: "assets/jasim-07.png"
+    image: "Assets/jasim-07.png"
   },
   {
     title: "BERSERK MODE",
     caption: "The group chat is no longer safe. ⚡",
-    image: "assets/jasim-08.png"
+    image: "Assets/jasim-08.png"
   },
   {
     title: "FINAL BOSS",
     caption: "Jasim has requested a private conversation. 👹",
-    image: "assets/jasim-09.png"
+    image: "Assets/jasim-09.png"
   },
   {
     title: "JASIM.EXE HAS CRASHED",
     caption: "CRITICAL ERROR: FRIENDSHIP NOT FOUND. 💀🔥",
-    image: "assets/jasim-10.png"
+    image: "Assets/jasim-10.png"
   }
 ];
 
